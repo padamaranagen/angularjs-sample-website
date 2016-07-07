@@ -1,0 +1,9 @@
+{
+  "name": "angularjs-website-template",
+  "version": "1.0.0",
+  "description": "Simple angularjs webiste template",
+  "author": "Nagendra Reddy",
+  "devDependencies": {
+    "express": "^4.13.4"   
+  }
+}
