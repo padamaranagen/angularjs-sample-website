@@ -6,8 +6,8 @@
   "devDependencies": {
     "bower": "^1.7.9",
     "express": "^4.13.4"
-  },
+  },  
   "scripts": {
-   "postinstall" : "./node_modules/bower/bin/bower install"
+   "postinstall" : "bower install"
 	}
 }
