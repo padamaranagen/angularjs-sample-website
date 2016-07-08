@@ -2,10 +2,7 @@
   "name": "angularjs-website-template",
   "version": "1.0.0",
   "description": "Simple angularjs webiste template",
-  "author": "Nagendra Reddy",
-  "scripts": {
-	"postinstall": "bower cache clean && bower install"
-	},  
+  "author": "Nagendra Reddy",   
   "devDependencies": {
     "bower": "^1.7.9",
     "express": "^4.13.4"
