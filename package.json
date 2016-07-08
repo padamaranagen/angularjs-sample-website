@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "Simple angularjs webiste template",
   "author": "Nagendra Reddy",
-  "engines": {
-    "node": "4.4.4"
-  },
+  "scripts": {
+	"postinstall": "bower cache clean && bower install"
+	},  
   "devDependencies": {
     "bower": "^1.7.9",
     "express": "^4.13.4"
-  },  
-  "scripts": {
-   "postinstall" : "bower install"
-	}
+  },
+  "engines": {
+    "node": "4.4.4"
+  }
 }
