@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Simple angularjs webiste template",
   "author": "Nagendra Reddy",   
-  "devDependencies": {
-    "bower": "^1.7.9",
+  "devDependencies": {  
     "express": "^4.13.4"
   },
   "engines": {
